@@ -1,7 +1,6 @@
 # 👋 ¡Hola! Soy David Aparicio
 
 💻 Estudiante de **Desarrollo de Aplicaciones Web **  
-🚀 Apasionado por el desarrollo web **frontend y backend**  
 📚 Actualmente aprendiendo **JavaScript, MySQL, Angular y frameworks web**  
 
 ---
