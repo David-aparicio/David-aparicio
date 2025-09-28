@@ -19,7 +19,7 @@
 ---
 
 ## 📂 Proyectos destacados
-- [🌐 Desarrollo Web Entorno Cliente](#) – Ejercicios y proyectos con HTML, CSS y JavaScript(Proximamente angular).  
+- [🌐 Desarrollo Web Entorno Cliente](#) – Ejercicios y proyectos con HTML, CSS y JavaScript (Proximamente angular).  
 - [⚙️ Desarrollo Web Entorno Servidor](#) – Aplicaciones dinámicas usando PHP y bases de datos.  
 - [📌 Proyecto Final DAW](#) – Aplicación web completa con frontend y backend integrado.  
 
